@@ -8,4 +8,4 @@ I am a data science graduate student at Northeastern University’s Roux Institu
 - [Data Visualization and Cartography for Sierra Club Maine](https://philipmathieu.github.io/scme/)
 - [Visualizing Air Quality Reports in South Portland](https://cs7290.github.io/stinky/)
 
-## [View My Resume](./Philip%20Mathieu%20-%20Resume%20CV%202022.pdf)
+## [View My Resume](./Philip%20Mathieu%202023-01.pdf)
