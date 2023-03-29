@@ -23,7 +23,7 @@ Links will take you to course descriptions
 - [DS 5220: Supervised Machine Learning and Learning Theory](https://catalog.northeastern.edu/search/?P=DS%205220)
 - [CS 5800: Algorithms](https://catalog.northeastern.edu/search/?P=CS%205800)
 - [DS 5110: Introduction to Data Management and Processing*](https://catalog.northeastern.edu/search/?P=DS%205110)
-- [DS5020: Introduction to Linear Algebra and Probability for Data Science*](https://catalog.northeastern.edu/search/?P=DS%205020)
-- [DS5010: Introduction to Programming for Data Science](https://catalog.northeastern.edu/search/?P=DS%205010)
+- [DS 5020: Introduction to Linear Algebra and Probability for Data Science*](https://catalog.northeastern.edu/search/?P=DS%205020)
+- [DS 5010: Introduction to Programming for Data Science](https://catalog.northeastern.edu/search/?P=DS%205010)
 
 *\* = also worked as TA for these courses*
