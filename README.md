@@ -8,8 +8,11 @@ I am a data science graduate student at Northeastern University’s Roux Institu
 - [National Women's Soccer League magic numbers (and in-browser web scraping demo for Observable)](https://observablehq.com/@philipmathieu/nwsl-magic-numbers)
 - [Quantifying Disparities in Access to Conserved Lands using CEJST Equity Metrics](https://philipmathieu.github.io/access/)
   - This research was selected for the 2023 Maine Sustainability & Water Conference [poster session](https://umaine.edu/mitchellcenter/home/2023-maine-sustainability-water-conference/poster-session/)
-- [Data Visualization and Cartography for Sierra Club Maine](https://philipmathieu.github.io/scme/)
 - [Visualizing Air Quality Reports in South Portland](https://cs7290.github.io/stinky/)
+
+<embed width="560" height="315" src="https://www.youtube.com/embed/aZW4gPmTsic?start=66" title="YouTube video player" type="application/x-shockwave-flash"></embed>
+
+- [Data Visualization and Cartography for Sierra Club Maine](https://philipmathieu.github.io/scme/)
 - [JavaScript-Based Image Annotation Tool](https://observablehq.com/@philipmathieu/bounding-box-with-d3)
 
 ## [View My Resume](./Philip%20Mathieu%202023-01.pdf)
