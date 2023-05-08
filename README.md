@@ -6,11 +6,10 @@ I am a data science graduate student at Northeastern University’s Roux Institu
 ## What I'm Working On
 
 - [Quantifying outdoor access through an equity lens](philipmathieu.github.io/access)
+  - Presentations: 2023 Roux Student Showcase (keynote talk), 2023 Maine Sustainability & Water Conference (poster session)
 - [National Women's Soccer League magic numbers (and in-browser web scraping demo for Observable)](https://observablehq.com/@philipmathieu/nwsl-magic-numbers)
-- [Quantifying Disparities in Access to Conserved Lands using CEJST Equity Metrics](https://philipmathieu.github.io/access/)
-  - This research was selected for the 2023 Maine Sustainability & Water Conference [poster session](https://umaine.edu/mitchellcenter/home/2023-maine-sustainability-water-conference/poster-session/)
 - [Visualizing Air Quality Reports in South Portland](https://cs7290.github.io/stinky/)
-  - Brief clip of presentation from Khoury College 40th Anniversary Celebration: https://youtu.be/aZW4gPmTsic?t=66
+  - Presentations: Khoury College 40th Anniversary Celebration: https://youtu.be/aZW4gPmTsic?t=66
 - [Data Visualization and Cartography for Sierra Club Maine](https://philipmathieu.github.io/scme/)
 - [JavaScript-Based Image Annotation Tool](https://observablehq.com/@philipmathieu/bounding-box-with-d3)
 
