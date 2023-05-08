@@ -1,10 +1,11 @@
 # Welcome!
 I am a data science graduate student at Northeastern University’s Roux Institute. My skills include data analysis, machine learning, and data visualization with an emphasis on Python and JavaScript tools and geospatial datasets. I have experience in education and environmental advocacy, including leadership experience coordinating small teams and serving on boards.
 
-**I am seeking internship/co-op opportunities for summer/fall 2023.**
+**I will be working full-time for Kelson Marine through December 2023. I am open to conversations about projects or job opportunities beginning as soon as January 2024.**
 
 ## What I'm Working On
 
+- [Quantifying outdoor access through an equity lens](philipmathieu.github.io/access)
 - [National Women's Soccer League magic numbers (and in-browser web scraping demo for Observable)](https://observablehq.com/@philipmathieu/nwsl-magic-numbers)
 - [Quantifying Disparities in Access to Conserved Lands using CEJST Equity Metrics](https://philipmathieu.github.io/access/)
   - This research was selected for the 2023 Maine Sustainability & Water Conference [poster session](https://umaine.edu/mitchellcenter/home/2023-maine-sustainability-water-conference/poster-session/)
